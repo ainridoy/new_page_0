@@ -3,3 +3,37 @@ body {
     font-family: 'Playfair Display', serif;
     font-family: 'Poppins', sans-serif;
 }
+
+h1 {
+    font-size: 40px;
+}
+
+.name {
+    color: orange;
+    font-size: larger;
+}
+
+.first-sec {
+    display: flex;
+    margin-bottom: 200px;
+}
+
+.first-divs {
+    width: 50%;
+    padding-left: 5%;
+    padding-right: 3%;
+}
+
+.first-divs img {
+    margin-top: 5%;
+    width: 100%;
+}
+
+.button {
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(orange, tomato);
+    font-weight: 800;
+    padding: 10px 30px;
+    border-radius: 10px;
+}
