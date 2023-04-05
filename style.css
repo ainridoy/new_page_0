@@ -37,3 +37,34 @@ h1 {
     padding: 10px 30px;
     border-radius: 10px;
 }
+
+.secound-sec {
+    display: flex;
+    background-color: antiquewhite;
+    border-radius: 50px;
+    margin-bottom: 150px;
+}
+
+.sec-divs {
+    width: 50%;
+    text-align: justify;
+}
+
+sec-divs img {
+    width: 100%;
+
+}
+
+.sec-divs p {
+    color: aqua;
+}
+
+.n-butn {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    font-weight: 800px;
+    padding: 10px 30px;
+    border-radius: 10px;
+    font-size: larger;
+}
